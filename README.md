@@ -5,7 +5,7 @@ Use handwritten Chinese labels for each room, including:
 - 走廊 (Corridor)
 - 玻璃路 (Glass Path)
 - 硬厨房 (Hard Kitchen)
-- 后院 (Backyard)
+- 庭院 (Garden)
 - 大女儿 (Eldest Daughter)
 - 小女儿 (Younger Daughter)
 - 荸荠 (Water Chestnut)
